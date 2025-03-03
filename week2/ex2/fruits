@@ -6,8 +6,29 @@
     <title>GG</title>
 </head>
 <body>
-    <h1>I am learning HTML and CSS!</h1>
-    <p>Phúc hơi non.</p>
-    <img src="apple.png" alt="Apple pen">
+    <h1>FRUITS</h1>
+    <p>
+        <img src="banana.png" alt="Banana" width="100" height="100">
+        <img src="orange.png" alt="Orange" width="100" height="100">
+        <img src="kiwi.png" alt="Kiwi" width="100" height="100">
+        <img src="kiwi.png" alt="Kiwi" width="100" height="100">
+        <img src="apple.png" alt="Apple" width="100" height="100">
+    </p>
+    
+    <p>
+        <img src="apple.png" alt="Apple" width="100" height="100">
+        <img src="apple.png" alt="Apple" width="100" height="100">
+        <img src="banana.png" alt="Banana" width="100" height="100">
+        <img src="kiwi.png" alt="Kiwi" width="100" height="100">
+        <img src="orange.png" alt="Orange" width="100" height="100">
+    </p>
+    
+    <p>
+        <img src="orange.png" alt="Orange" width="100" height="100">
+        <img src="banana.png" alt="Banana" width="100" height="100">
+        <img src="orange.png" alt="Orange" width="100" height="100">
+        <img src="orange.png" alt="Orange" width="100" height="100">
+        <img src="apple.png" alt="Apple" width="100" height="100">
+    </p>
 </body>
 </html>
